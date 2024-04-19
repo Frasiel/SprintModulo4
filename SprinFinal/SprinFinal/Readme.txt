@@ -31,5 +31,5 @@ DIAGRAMA PROYECTO PREVENCIÓN RIESGOS
 LINK ACCESO A GITHUB
 Ruben Riquelme:
 Nayareth Sepulveda:
-Frasiel Camp:
+Frasiel Camp:https://github.com/Frasiel/SprintModulo4.git
 Scherezade Huancapaza:https://github.com/ShahrazadM/EmpresaRiesgos-SprintGrupal-
